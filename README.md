@@ -1,0 +1,1 @@
+Repositório destinado a compartilhar os exercícios referentes a matéria EST 613 (Estatística Bayesiana), ministrada pela Profa. Dra. Camila Azevedo, no curso de Pós-Graduação em Genética e Melhoramento da Universidade Federal de Viçosa, no período 02/2026. 
